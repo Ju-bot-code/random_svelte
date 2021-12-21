@@ -1,0 +1,33 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-netlify": "^1.0.0-next.35",
+    "@sveltejs/kit": "next",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "svelte": "^3.44.0",
+    "tailwindcss": "^2.2.19"
+  },
+  "type": "module",
+  "dependencies": {
+    "@bytemd/plugin-gfm": "^1.10.13",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^31.0.0",
+    "@ckeditor/ckeditor5-upload": "^31.0.0",
+    "@tinymce/tinymce-svelte": "^0.1.1",
+    "bytemd": "^1.10.13",
+    "ckeditor5-svelte": "^0.0.10",
+    "daisyui": "^1.16.2",
+    "framework7-svelte": "^6.3.9",
+    "svelte-dragdroplist": "^1.1.1",
+    "svelte-file-dropzone": "^0.0.15",
+    "svelte-sortable-list": "^1.1.0"
+  }
+}
