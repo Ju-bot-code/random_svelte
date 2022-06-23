@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.btn{
+    @apply border border-white px-4 py-2 rounded-md m-2
+}
+.input{
+    @apply p-2 bg-white text-black rounded-md  m-2
+}
+
+.h1{
+     @apply uppercase underline tracking-widest m-2
+}
+
+.checkbox {
+    @apply text-transparent;
+  }

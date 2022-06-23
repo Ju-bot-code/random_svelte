@@ -1,10 +1,23 @@
 <script>
-import Reactivity from "./tut/Reactivity.svelte";
-import Props from './tut/props.svelte'
-import Inn from "./tut/innerhtml.svelte";
-import Eachblockbind from "./tut/eachblockbind.svelte";
-import Mediabind from "./tut/mediabind.svelte";
-import BindingDimestion from "./tut/bindingDimestion.svelte";
+    import Reactivity from "./tut/Reactivity.svelte";
+    import Props from './tut/props.svelte'
+    import Inn from "./tut/innerhtml.svelte";
+    import Eachblockbind from "./tut/eachblockbind.svelte";
+    import Mediabind from "./tut/mediabind.svelte";
+    import BindingDimestion from "./tut/bindingDimestion.svelte";
+    import Keypad from "./tut/keypad.svelte";
+    import Bindintocomp from './tut/bindingToComponentInstance/index.svelte'
+    import Count from "./tut/count.svelte";
+    import CustomStore from "./tut/customStore.svelte";
+    import Progress from "./tut/progress.svelte";
+    import Typewriter from "./tut/typewriter.svelte";
+    import Transition from "./tut/transition.svelte";
+    import Local from "./tut/local.svelte";
+    import Star from "./tut/star.svelte";
+    import Password from "./tut/password.svelte";
+
+
+ 
 
 </script>
 
@@ -34,7 +47,23 @@ import BindingDimestion from "./tut/bindingDimestion.svelte";
         <Eachblockbind/>
         <Mediabind/>
         <BindingDimestion/>
-    
+        <Keypad/>
+        <Bindintocomp/>
+        <Count/>
+        <CustomStore/>
+        <Progress/>
+        <Typewriter/>
+        <Transition/>
+        <Local/>
+        <Star/>
+        <Password/>
+      
+
+
+   
+  
+
+      
 
 
     </div>

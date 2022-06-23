@@ -1,4 +1,4 @@
-<div class="w-16 min-h-full p-2 right-0 fixed flex  z-10  ">
+<div class="w-16 min-h-full p-2 right-0 fixed  flex  z-50  ">
 
     <ul class="flex w-full bg-origin-border rounded-md border border-opacity-60 border-white p-2 bg-opacity-25 bg-white  flex-col justify-between items-center ">
         

@@ -34,7 +34,7 @@
 
 </div> -->
 
-<!-- <script>
+<script>
 	// These values are bound to properties of the video
 	let time = 0;
 	let duration;
@@ -164,4 +164,4 @@
 	video {
 		width: 100%;
 	}
-</style> -->
+</style>

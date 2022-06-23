@@ -13,6 +13,10 @@ module.exports = {
     extend: {},
   },
   plugins: [
+    require('@tailwindcss/forms'),
     require('daisyui'),
-  ],
+  ], 
+  // daisyui: {
+  //   styled: false,
+  // },
 }
